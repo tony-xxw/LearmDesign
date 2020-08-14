@@ -1,2 +1,0 @@
-# LearmDesign
-learn design pattern
