@@ -1,8 +1,6 @@
 package design.single
 
-import sun.jvm.hotspot.oops.Instance
 import java.io.*
-import java.lang.Exception
 
 
 fun main() {
